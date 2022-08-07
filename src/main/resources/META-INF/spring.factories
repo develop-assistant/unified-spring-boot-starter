@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.idea360.unified.response.UnifiedResponseBodyAdvice,\
+cn.idea360.unified.exception.UnifiedExceptionHandler,\
+cn.idea360.unified.request.ValidateRequestBodyAdvice
